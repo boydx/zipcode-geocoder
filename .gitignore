@@ -2,3 +2,4 @@
 ._addresses.csv
 ._zipcodes_latlng.csv
 ._*
+.ipynb_checkpoints/zipcode-geocoder-checkpoint.ipynb
